@@ -1,6 +1,7 @@
 <h1> Hey there! </h1>
-
-![](on_the_rush.gif)
+<p align="center">
+    <img src="./wallpaper.png" width=600px>  
+</p>
 
 <h3>
     <l1> - Javascript </li> <br>
