@@ -1,6 +1,6 @@
 <h1> Hey there! </h1>
 <p align="center">
-    <img src="./wallpaper.png" width=600px>  
+    <img src="./wallpaper.png" width=400px>  
 </p>
 
 <h3>
