@@ -1,7 +1,7 @@
 <h1> Hey there! </h1>
-<p align="center">
-    <img src="./wallpaper.png" width=400px>  
-</p>
+
+![](https://res.cloudinary.com/dftakk7cg/image/upload/v1596227786/midori-n_hk1hog.gif)  
+
 
 <h3>
     <l1> - Javascript </li> <br>
