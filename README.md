@@ -2,7 +2,6 @@
 
 ![](https://res.cloudinary.com/dftakk7cg/image/upload/v1596227786/midori-n_hk1hog.gif)  
 
-
 <h3>
     <l1> - Javascript </li> <br>
     <l1> - HTML5 </li> <br>
