@@ -1,7 +1,6 @@
 <h1> Hey there! </h1>
-<p align="center">
-    <img src="./on_the_rush.gif">  
-</p>
+
+![](on_the_rush.gif)
 
 <h3>
     <l1> - Javascript </li> <br>
