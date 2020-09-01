@@ -4,10 +4,12 @@
 
 <h3>
     <l1> - Javascript </li>
-    <l1> - React </li> <br> 
+    <l1> <> React </li> <br> 
+    <l1> - Python </li> <br>
     <l1> - HTML5 </li>
-    <l1> - CSS3 </li> <br>
+    <l1> <> CSS3 </li> <br>
     <l1> - Node.js </li>
-    <l1> - Python </li>
-    <l1> - MySql </li>
+    <l1> <> Sequelize </li>
+    <l1> <> PostgreSQL </li> <br>
+    <l1> - Docker </li> 
 </h3>
