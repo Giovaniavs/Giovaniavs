@@ -1,12 +1,12 @@
 
-## Heyo :wave: Devs, 
+## Hail :wave: Devs, 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/gandalf.gif" width=100>
   <br><br>
-  <!-- <samp>
-    I'm <a href="https://coderjojo.netlify.app/">Vedant</a> currently a Third Year CSE student at <a href="http://www.viit.ac.in/">@VIIT :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
-  </samp> -->
+  <samp>
+    Hello there! I'm glad to see you right here, nice to meet you! So, i'm Giovani Albuquerque, which one that likes so much to study and build some web applications using, often, react in the front-end and node.js plus express in the back-end! Nowadays i'm so excited to learn more about DevOps and improve my backend skills, so, let's study and talk with the best friend of the developer, the Google! 
+  </samp>
 </p>
 
 ### Programming Languages  :rocket:
