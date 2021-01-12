@@ -10,7 +10,7 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/python.svg" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/typescript.png" width=60> |
+|<img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/typescript.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/python.svg" width=60> |<img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/js.png" width=60> |
 |:---:|:---:|:---:|
 
 
