@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/gandalf.gif" width=200>
   <br><br>
   <samp>
-    Hello there! I'm glad to see you right here, nice to meet you! So, i'm Giovani Albuquerque, which one that likes so much to study and build some web applications using, often, react.js in the front-end and node.js plus express in the back-end! Nowadays i'm so excited to learn more about DevOps and improve my backend skills, so, let's study and talk with the best friend of the developer, the Google! 
+    Hello there! I'm glad to see you right here, nice to meet you! So, i'm Giovani Albuquerque and i really like to study and build some web applications by frequently using react.js in the front-end and node.js plus express in the back-end! Nowadays i'm so excited to learn more about DevOps and improve my backend skills, so, let's study and talk with the best friend of the developer, the Google! 
   </samp>
 </p>
 
@@ -15,7 +15,7 @@
 
 
 ### Tools :fire:
-|<img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/ubuntu.png" width=60> |
+|<img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/ubuntu.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/docker.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/insomnia.png" width=60> |
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
