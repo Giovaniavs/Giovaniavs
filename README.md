@@ -24,7 +24,7 @@
 </a>
 <br/><br/>
 
-[![Giovani's github stats](https://github-readme-stats.vercel.app/api?username=Giovaniavs&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/Giovaniavs/github-readme-stats)
+[![Giovani's github stats](https://github-readme-stats.vercel.app/api?username=Giovaniavs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/Giovaniavs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovaniavs&layout=compact&theme=tokyonight)](https://github.com/Giovaniavs/github-readme-stats)
 
 
