@@ -15,8 +15,8 @@
 
 
 ### Tools :fire:
-|<img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/github.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/react.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/nodejs.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/ubuntu.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/docker.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/insomnia.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/github.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/react.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/nodejs.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/ubuntu.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/docker.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/insomnia.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/digital-ocean.png" width=60> | <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/aws.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/giovani-albuquerque-76a6ab1b6/">
