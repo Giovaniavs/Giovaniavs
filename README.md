@@ -26,3 +26,6 @@
 
 [![Giovani's github stats](https://github-readme-stats.vercel.app/api?username=Giovaniavs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Giovaniavs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovaniavs&layout=compact&theme=tokyonight)](https://github.com/Giovaniavs/github-readme-stats)
+<br>
+
+### Don't forget to visit my website! https://giovanialbuquerque.site/
