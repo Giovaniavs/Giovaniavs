@@ -20,9 +20,12 @@
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/giovani-albuquerque-76a6ab1b6/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" width="21px" src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/linkedin.png" />
 </a>
-<br/><br/>
+<a href="https://www.linkedin.com/in/giovani-albuquerque-76a6ab1b6/">
+  <img align="left" width="21px" src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/medium.png" />
+</a>
+<br>
 
 [![Giovani's github stats](https://github-readme-stats.vercel.app/api?username=Giovaniavs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Giovaniavs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovaniavs&layout=compact&theme=tokyonight)](https://github.com/Giovaniavs/github-readme-stats)
