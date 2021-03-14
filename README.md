@@ -2,7 +2,7 @@
 ## Hail :wave: Devs, 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/gandalf.gif" width=200>
+  <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/gandalf.gif" width=350>
   <br><br>
   <samp>
     I'm glad to see you right here, nice to meet you! So, i'm Giovani Albuquerque and i really like to study and build some web applications by frequently using react.js in the front-end and node.js plus express in the back-end! Nowadays i'm so excited to learn more about DevOps and improve my backend skills, so, let's study and talk with the best friend of the developer, the Google! 
