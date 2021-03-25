@@ -1,11 +1,11 @@
 
-## Hail :wave: Devs, 
+## Hello :wave: Devs, 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/gandalf.gif" width=200>
   <br><br>
   <samp>
-    Hello there! I'm glad to see you right here, nice to meet you! So, i'm Giovani Albuquerque and i really like to study and build some web applications by frequently using react.js in the front-end and node.js plus express in the back-end! Nowadays i'm so excited to learn more about DevOps and improve my backend skills, so, let's study and talk with the best friend of the developer, the Google! 
+    I'm glad to see you right here, nice to meet you! So, my name is Giovani Albuquerque and I am someone that really likes to study and build some web applications. The tools I use to build these web systems are React.js in the front-end and Node.js plus express in the back-end. Nowadays I'm so excited to learn more about DevOps, Infrastructure and Cloud Computing.
   </samp>
 </p>
 
