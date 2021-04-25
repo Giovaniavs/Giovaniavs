@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/gandalf.gif" width=350>
   <br><br>
   <samp>
-    I'm glad to see you right here, nice to meet you! So, my name is Giovani Albuquerque and I am someone that really likes to study and build some web applications. The tools I use to build these web systems are React.js in the front-end and Node.js plus express in the back-end. Nowadays I'm so excited to learn more about DevOps, Infrastructure and Cloud Computing.
+    I'm glad to see you right here, nice to meet you! So, my name is Giovani Albuquerque and I am someone that really likes to study and build some web applications. The tools that I use to build these web systems are React.js in the front-end and Node.js plus Express in the back-end. Nowadays I'm so excited to learn more about DevOps, Infrastructure and Cloud Computing.
   </samp>
 </p>
 
