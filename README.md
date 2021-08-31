@@ -15,7 +15,7 @@
 
 
 ### Frameworks :wrench:
-<img src="./img/react.png" width=80> | <img src="./img/angular.svg" width=60> |<img src="./img/flutter.png" width=60> |<img src="./img/Django.png" width=80> |
+<img src="./img/react.png" width=60> | <img src="./img/angular.svg" width=60> |<img src="./img/flutter.png" width=60> |<img src="./img/Django.png" width=60> |
 |:---:|:---:|:---:|:---:|
 
 
