@@ -10,12 +10,12 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="./img/typescript.png" width=60> | <img src="./img/python.svg" width=60> |<img src="./img/js.png" width=60> |<img src="./img/Dart.png" width=60> |
+|<img src="./img/typescript.png" width=60> | <img src="./img/python.svg" width=60> |<img src="./img/js.png" width=60> |<img src="./img/dart.svg" width=60> |
 |:---:|:---:|:---:|:---:|
 
 
 ### Frameworks :wrench:
-<img src="./img/react.png" width=80> | <img src="./img/NodeExpress.png" width=100> |<img src="./img/Flutter.png" width=80> |<img src="./img/Django.png" width=80> |
+<img src="./img/react.png" width=80> | <img src="./img/angular.svg" width=60> |<img src="./img/flutter.png" width=60> |<img src="./img/Django.png" width=80> |
 |:---:|:---:|:---:|:---:|
 
 
