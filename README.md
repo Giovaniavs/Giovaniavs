@@ -10,7 +10,7 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="./img/typescript.png" width=60> | <img src="./img/python.svg" width=60> |<img src="./img/js.png" width=60> |<img src="./img/Dart.png" width=100> |
+|<img src="./img/typescript.png" width=60> | <img src="./img/python.svg" width=60> |<img src="./img/js.png" width=60> |<img src="./img/Dart.png" width=80> |
 |:---:|:---:|:---:|:---:|
 
 
