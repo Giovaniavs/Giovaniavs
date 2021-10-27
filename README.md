@@ -9,6 +9,8 @@
   </samp>
 </p>
 
+<br></br>
+
 ### Programming Languages  :rocket:
 |<img src="./img/typescript.png" width=60> | <img src="./img/python.svg" width=60> |<img src="./img/js.png" width=60> |<img src="./img/dart.svg" width=60> |
 |:---:|:---:|:---:|:---:|
@@ -26,6 +28,8 @@
 <a href="https://gavs2.medium.com/">
   <img align="left" width="30px" src="./img/medium.webp" />
 </a>
+
+<br></br>
 <br></br>
 
 [![Giovani's github stats](https://github-readme-stats.vercel.app/api?username=Giovaniavs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Giovaniavs/github-readme-stats)
