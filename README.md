@@ -37,8 +37,4 @@
 
 <br></br>
 
-<p align="center">
-  <img src="./img/my-qrcode.png" width=200>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=Giovaniavs)
