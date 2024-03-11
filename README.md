@@ -2,10 +2,14 @@
 ## Hello :wave: Devs, 
 
 <p align="center">
-  <img src="./img/gandalf.gif" width=350>
+  <img src="./img/cyberpunk_city.gif" width=350>
   <br><br>
   <samp>
-    Hello there! I'm glad to see you right here, nice to meet you! So, my name is Giovani Albuquerque and I realy like to study and build software applications. Nowadays I'm so excited to learn more about Dev Web, Dev Mobile and DevOps because I believe that these three pillars united are very important to understand deepthly the new world of software development we live in.
+    Hi there, hope you are doing great! My name is Giovani Albuquerque, I've started in this world of
+    software development in the middle of the pandemic, back in 2020. Since then, I've been working in differents
+    projects, with different people, and in different environments, making I notice how a project that we code
+    affects the life of the users. Nowadays I'm focused in Mobile software development, and most of my experience
+    was around it, but I also have developed web front and backends using differents frameworks.
   </samp>
 </p>
 
