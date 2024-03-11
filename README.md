@@ -2,7 +2,7 @@
 ## Hello :wave: Devs, 
 
 <p align="center">
-  <img src="./img/cyberpunk_city.gif" width=350>
+  <img src="./img/cyberpunk_city.gif" width=450>
   <br><br>
   <samp>
     Hi there, hope you are doing great! My name is Giovani Albuquerque, I've started in this world of
